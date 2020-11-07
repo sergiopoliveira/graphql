@@ -1,6 +1,7 @@
 package com.sergio.graphql.provider;
 
 import com.google.common.io.Resources;
+import com.sergio.graphql.fetchers.GraphQLDataFetchers;
 import graphql.GraphQL;
 import graphql.schema.GraphQLSchema;
 import graphql.schema.idl.RuntimeWiring;
